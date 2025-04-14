@@ -8,6 +8,8 @@ body {
 	padding: 0;
 	height: 100%;
 	overflow: visible;
+	background-color: rgba(0, 128, 0, 0.2);
+
 	}
 
 #bg {
@@ -65,15 +67,16 @@ body {
 h1 {
 	margin: 0;
 	font-size: 48px;
-	line-height: 1.5;
+	line-height: 1.2;
 	font-weight: 700;
 	text-transform: uppercase;
 	}
 
 h2 {
 	margin: 0;
+	padding: 24px 0 12px 0;
 	font-size: 24px;
-	line-height: 1.5;
+	line-height: 1.2;
 	font-weight: 600;
 	letter-spacing: 0.6.em;
 	}
@@ -81,31 +84,36 @@ h2 {
 h3 {
 	margin: 0;
 	font-size: 18px;
-	line-height: 1.5;
+	line-height: 1.2;
 	font-weight: 600;
 	letter-spacing: 0.6.em;
 	color: #000000;
+	padding: 16px 0 8px 0;
 	}
 
+hr {
+	margin: 24px 0 0 0;
+}
+
 p {
-	margin: 16px 0 0;
+	margin: 0;
 	}
 
 a {
-	color:#357edd;
+	color:#6610f2;
 	text-decoration: none;
 	}
 
-a:visited{
-	color:#96ccff;
-  	}
+li {
+	padding-bottom: 8px;
+}
 
 a:hover{
-	color:#00449e;
+	color:#61bb95;
   	}
 
 a:focus{
-	color:#009eff;
+	color:#61bb95;
 	}
 
 a:active{
@@ -134,22 +142,14 @@ a:active{
 	}
 
 .social-media-list {
-	font-size: 16px;
 	list-style: none;
-	margin-left: 0;
+	padding: 0;
+	display: flex;
+	gap: 1.5rem;
+	flex-wrap: wrap;
+	align-items: center;
+  }
+	  
+.social-media-list li {
+	font-size: 1rem;
 }
-
-.contact-list a,
-.social-media-list a {
-	color: #357edd;
-	text-decoration: none;
-	}
-
-.contact-list a:hover,
-.social-media-list a:hover {
-	color: #357edd;
-	}
-
-.social-media-list .icon {
-	vertical-align: text-top;
-	}

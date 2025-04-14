@@ -15,8 +15,11 @@
 # in the templates via {{ site.myvariable }}.
 title: Agile Meets Sustainability
 email: kontakt@mehrwert.tech
-phone: +49 152 21694139
-description: A coming soon page for Jekyll
+linked_in: https://www.linkedin.com/in/marcel-russ-82a277144/
+copyright: mehr.wert Software und IT Beratung GmbH
+copyright_link: https://mehrwert.tech 
+
+description: The coming soon page for GreenAgile.org
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://greenagile.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 

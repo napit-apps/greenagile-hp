@@ -1,47 +1,21 @@
 <footer class="site-footer">
-
   <div class="wrapper">
-</br>
-    <h2 class="footer-heading">Contact</h2>
-
-    <div class="footer">
-
-        <h3 class="contact-list">
-<li>
-            {% if site.author %}
-              {{ site.author | escape }}
-            {% endif %}
-
-</li>
-<li>
-            {% if site.phone %}
-            Call {{ site.phone | escape }}
-            {% endif %}
-            </li>
-<li>
-            {% if site.email %}
-            email: <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
-
-          </h3>
-</br>
-        <div class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
+    <ul class="contact-list">
+      {% if site.email or site.linked_in %}
+        <li style="display: flex; gap: 1.5rem; flex-wrap: wrap; align-items: center; padding-left: 0;">
+          {% if site.email %}
+            <span>📧 <a href="mailto:{{ site.email }}">{{ site.email }}</a></span>
           {% endif %}
 
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
+          {% if site.linked_in %}
+            <span>🔗 <a href="{{ site.linked_in }}" target="_blank" rel="noopener">LinkedIn</a></span>
           {% endif %}
-        </div>
+        </li>
+      {% endif %}
+    </ul>
 
-
-    </div>
-
+    <p style="font-size: 0.8em; color: #888;">
+      &copy; {{ site.copyright }}
+    </p>
   </div>
-
 </footer>
