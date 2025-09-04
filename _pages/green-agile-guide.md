@@ -3,7 +3,6 @@ layout: default
 title: Green Agile Guide — Preview (v1.0)
 description: A compact operating frame that integrates sustainability empirically into agile software development — without adding new meetings.
 permalink: /guide/
-last_updated: 2025-09-04
 ---
 
 # Green Agile Guide — Preview (v1.0)

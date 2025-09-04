@@ -1,14 +1,14 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
+title: Green Agile Guide — Agile Meets Sustainability
+description: The Green Agile Guide brings sustainability into agile software development with clear rules, roles, and metrics — without adding new meetings.
 ---
 
 # Agile Meets Sustainability
 
-## The Green Agile Guide – a new mindset for teams building software that matters.
-→ *Join the movement. Stay in the loop.*
+## The Green Agile Guide – a focused way for teams to build software that matters.
+[**Green Agile Guide (Preview)**](/guide){: .btn .btn-primary .cta }  
+*Join the movement. Stay in the loop.*
 
 ---
 
@@ -24,11 +24,11 @@ The Green Agile Guide bridges sustainability and agility across three core dimen
 
 ## 🚧 The Green Agile Guide is still under construction – but the journey has already begun.
 
-We’re actively working on the *Green Agile Guide* and would love to bring curious minds on board early.
-[Green Agile Guide (Preview)](https://greenagile.org/green-agile-guide.html)
+We’re actively working on the *Green Agile Guide* and would love to bring curious minds on board early.  
+
+If you prefer, jump straight to the **[Preview](/guide)**.
 
 ### Want to stay in the loop or become a collaborator?
 Drop us a message – we’ll reach out as soon as we're ready to share more.
-
 
 <!-- Contact Icons (injected from footer.html) -->
