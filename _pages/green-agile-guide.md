@@ -25,7 +25,7 @@ The Green Agile Guide is an **operating frame for software products**. It extend
 Agile methods address uncertainty and complexity; sustainability is precisely such a long-horizon problem space. Empiricism makes impact **visible, testable, and adaptable** — using the same loops as for quality.
 
 ### 2.2 Three dimensions of sustainability
-- **Ecological:** *Carbon awareness*, *energy efficiency*, *hardware efficiency* across the product life cycle.  
+- **Ecological:** Carbon awareness, energy efficiency, hardware efficiency across the product life cycle.  
 - **Economic:** Maintainability, technology choices, investment protection, TCO transparency.  
 - **Social:** Accessible, inclusive products; fair team structures; psychological safety.  
 The dimensions act together on **product and organization**.
