@@ -22,11 +22,12 @@ The Green Agile Guide bridges sustainability and agility across three core dimen
 
 ---
 
-## 🚧 This page is still under construction – but the journey has already begun.
+## 🚧 The Green Agile Guide is still under construction – but the journey has already begun.
 
 We’re actively working on the *Green Agile Guide* and would love to bring curious minds on board early.
+[Green Agile Guide (Preview)](https://greenagile.org/green-agile-guide.html)
 
-### Want to stay in the loop or become an early reviewer?
+### Want to stay in the loop or become a collaborator?
 Drop us a message – we’ll reach out as soon as we're ready to share more.
 
 
